@@ -1,0 +1,40 @@
+.reviews {
+  padding: 40px 0;
+  background: #fff;
+}
+
+.reviews-text{
+  font-size: 14px;
+  line-height: 24px;
+  color: #666;
+}
+
+.reviews-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.reviews-name {
+  font-size: 12px;
+  font-style: italic;
+  line-height: 100%;
+  padding-bottom: 10px;
+  color: red;
+}
+
+.reviews-rating {
+  font-size: 14px;
+  line-height: 24px;
+  color: green;
+}
+
+.reviews-ind {
+  margin: 20px;
+}
+
+.hr {
+  margin: auto;
+  width: 25%;
+}

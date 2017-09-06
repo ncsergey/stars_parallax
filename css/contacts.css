@@ -1,0 +1,26 @@
+.contacts {
+  padding: 40px 0;
+  background: #f2f2f2;
+}
+
+.contacts-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.contacts-text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #666;
+}
+
+.contacts-text-left {
+  padding-left: 124px;
+}
+
+.footer {
+  margin: 10px;
+  text-align: center;
+}
