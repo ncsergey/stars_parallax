@@ -8,7 +8,7 @@
 }
 
 .team-member {
-  height: 240px;
+  height: 460px;
 }
 
 .member-image {
@@ -43,4 +43,28 @@
   border-radius: 100px;
   display: inline-block;
   padding: 8px 10px 5px;
+}
+
+@media (max-width: 960px) {
+  .team-member {
+    height: 260px;
+  }
+}
+
+@media (max-width: 910px) {
+  .team-member {
+    height: 460px;
+  }
+}
+
+@media (max-width: 480px) {
+  .team-member {
+    height: 260px;
+  }
+}
+
+@media (max-width: 450px) {
+  .team-member {
+    height: 460px;
+  }
 }
