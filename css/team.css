@@ -7,6 +7,10 @@
   padding-top: 40px;
 }
 
+.team-member {
+  height: 240px;
+}
+
 .member-image {
   display: inline-block;
   float: left;

@@ -9,15 +9,15 @@
 .header-logo {
   float: left;
   display: inline;
-  /*width: 134px;*/
+  width: 134px;
   height: 36px;
   padding: 0 20px;
 }
 
-.header-logo-image{
+/*.header-logo-image{
   margin-top: -10px;
   height: 150%;
-}
+}*/
 
 .header-nav {
   float: right;
